@@ -1,12 +1,54 @@
-# React + Vite
+# 🧠 Sorting Algorithm Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, responsive web app to visualize how different sorting algorithms work in real-time. Built using **React** and styled with **Tailwind CSS**, this project helps learners and developers understand sorting through intuitive animations and controls.
 
-Currently, two official plugins are available:
+### 🔗 Live Demo  
+👉 [Visit the Website](https://sorting-visualizer-nine-blush.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 📊 Sorting in Action
+![Sorting](./screenshots/sorting.png)
+
+---
+
+## ✨ Features
+
+- 🔢 Visualize multiple sorting algorithms:
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Shell Sort
+- 🎛️ Fully interactive control panel:
+  - Adjust array size
+  - Set custom min/max range
+  - Control animation delay
+  - Play, pause, step forward/backward
+  - Input custom array manually
+- 🎨 Responsive layout with clean design
+- 🔄 Dynamic comparisons shown during sorting
+
+---
+
+## 📚 Tech Stack
+
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS
+- **Routing**: React Router DOM
+
+---
+
+## 🙋‍♂️ Author  
+Made with ❤️ by **Rajat Mishra**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajat-mishra-69b473257/)
+- 🐙 [GitHub](https://github.com/rajat-mish)
+
+
